@@ -8,6 +8,7 @@
     <NeutralLanguage>en</NeutralLanguage>
     <PackageTags>SimpleInjector, IOC, DI, Inversion of Control, Dependency Injection</PackageTags>
     <Description>HCI.IoC is a NuGet library to help you perform the inversion of control with Simple Injector easily automatically.</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
